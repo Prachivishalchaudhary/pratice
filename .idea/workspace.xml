@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee518cfb-e161-4d7f-aefc-b9ece4e59902" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first java class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/OddEven.java" afterDir="false" />
-    </list>
+    <list default="true" id="ee518cfb-e161-4d7f-aefc-b9ece4e59902" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
